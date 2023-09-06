@@ -5,15 +5,15 @@
   },
   {
     "ja": "_DAY_日",
-    "en": "_DAY_"
+    "en": "_DAY_days"
   },
   {
     "ja": "_USER_NAME_さんがあなたをフォローしました。",
-    "en": ""
+    "en": "_USER_NAME_has followed you."
   },
   {
     "ja": "_USER_NAME_さんがいいねしました。",
-    "en": ""
+    "en": "_USER_NAME_has liked"
   },
   {
     "ja": "_WORKS_COUNT_件",
@@ -25,11 +25,11 @@
   },
   {
     "ja": "IDにはアルファベットが含まれている必要があります",
-    "en": ""
+    "en": "ID should contain alphabetical letters."
   },
   {
     "ja": "IDは4文字以上14文字以下である必要があります",
-    "en": ""
+    "en": "ID must be between 4 and 14 characters."
   },
   {
     "ja": "X(Twitter)でログイン",
@@ -45,19 +45,19 @@
   },
   {
     "ja": "あなたのシリーズ",
-    "en": ""
+    "en": "Your series"
   },
   {
     "ja": "あなたのシリーズは無いみたい。",
-    "en": ""
+    "en": "You do not have any series."
   },
   {
     "ja": "あなたのフォルダ",
-    "en": ""
+    "en": "Your folder"
   },
   {
     "ja": "あなたのフォルダは無いみたい。",
-    "en": ""
+    "en": "You do not have any folders."
   },
   {
     "ja": "あなたの作品",
@@ -65,19 +65,19 @@
   },
   {
     "ja": "あなたの作品は無いみたい。",
-    "en": ""
+    "en": "Waiting for your masterpiece!"
   },
   {
     "ja": "シリーズの報告",
-    "en": ""
+    "en": "Report of series"
   },
   {
     "ja": "いいね",
-    "en": ""
+    "en": "Like"
   },
   {
     "ja": "イラストとは関係のない商品のURLなどを大量に投稿している。",
-    "en": ""
+    "en": "Too much posts no related to Illustration."
   },
   {
     "ja": "おすすめ",
@@ -85,7 +85,7 @@
   },
   {
     "ja": "オフ",
-    "en": ""
+    "en": "Off"
   },
   {
     "ja": "お題",
@@ -109,31 +109,31 @@
   },
   {
     "ja": "クリップボードにコピーしました。",
-    "en": ""
+    "en": "Copied to clipboard."
   },
   {
     "ja": "ここで終わりみたい。",
-    "en": ""
+    "en": "This is the end."
   },
   {
     "ja": "このアプリを利用するには利用規約とプライバシーポリシーに同意する必要があります。",
-    "en": ""
+    "en": "You must agree to the Terms of Use and Privacy Policy to use this application."
   },
   {
     "ja": "このユーザーの投稿はフォロー中タブに表示されなくなりますが、他のページから見ることができます。",
-    "en": ""
+    "en": "This user's posts will no longer appear in the Following tab, but can be viewed from other pages."
   },
   {
     "ja": "この機能は使用できないみたい。",
-    "en": ""
+    "en": "This function is not available."
   },
   {
     "ja": "この作品は削除されました。",
-    "en": ""
+    "en": "The post has been deleted."
   },
   {
     "ja": "この通知は削除されました。",
-    "en": ""
+    "en": "This notification has been deleted."
   },
   {
     "ja": "コメント",
@@ -157,19 +157,19 @@
   },
   {
     "ja": "スタンプ",
-    "en": ""
+    "en": "Stamps"
   },
   {
     "ja": "スタンプの報告",
-    "en": ""
+    "en": "Stamp's report"
   },
   {
     "ja": "スタンプを報告する",
-    "en": ""
+    "en": "Report stamp"
   },
   {
     "ja": "スパム",
-    "en": ""
+    "en": "Spam"
   },
   {
     "ja": "その他",
@@ -185,7 +185,7 @@
   },
   {
     "ja": "タブレット向けUIを使用する",
-    "en": ""
+    "en": "Using the user interface for tablet"
   },
   {
     "ja": "ツイッターをフォローする",
@@ -217,7 +217,7 @@
   },
   {
     "ja": "パスワードを更新しました。",
-    "en": ""
+    "en": "Password has been updated."
   },
   {
     "ja": "フィード",
@@ -225,15 +225,15 @@
   },
   {
     "ja": "フィードバック",
-    "en": ""
+    "en": "Feedback"
   },
   {
     "ja": "フォルダ",
-    "en": ""
+    "en": "Folder"
   },
   {
     "ja": "フォルダの報告",
-    "en": ""
+    "en": "Folder's report"
   },
   {
     "ja": "フォロー",
@@ -245,7 +245,7 @@
   },
   {
     "ja": "フォローを解除しますか？",
-    "en": ""
+    "en": "Do you want to unfollow?"
   },
   {
     "ja": "フォロー中",
@@ -261,7 +261,7 @@
   },
   {
     "ja": "ページを開く",
-    "en": ""
+    "en": "Open the page"
   },
   {
     "ja": "ベスト",
@@ -281,7 +281,7 @@
   },
   {
     "ja": "ミュートしたタグは無いみたい。",
-    "en": ""
+    "en": "You do not have any muted tags."
   },
   {
     "ja": "ミュートしたユーザ",
@@ -289,15 +289,15 @@
   },
   {
     "ja": "ミュートしたユーザは居ないみたい。",
-    "en": ""
+    "en": "You do not have any muted users"
   },
   {
     "ja": "ミュートを解除する",
-    "en": ""
+    "en": "Unmute"
   },
   {
     "ja": "やめる",
-    "en": ""
+    "en": "Stop"
   },
   {
     "ja": "ユーザの報告",
@@ -345,11 +345,11 @@
   },
   {
     "ja": "ログインしました",
-    "en": ""
+    "en": "Logged in"
   },
   {
     "ja": "ログインするとコメントできます",
-    "en": ""
+    "en": "Please log in to leave comments."
   },
   {
     "ja": "ログインに使用するIDを変更します。",
@@ -361,15 +361,15 @@
   },
   {
     "ja": "一部の画面でタブレット向けのレイアウトが適用されます。",
-    "en": ""
+    "en": "Tablet-friendly layout is applied for some pages."
   },
   {
     "ja": "解除する",
-    "en": ""
+    "en": "Release"
   },
   {
     "ja": "該当する報告理由を選択してください。",
-    "en": ""
+    "en": "Select the relevant reason for reporting."
   },
   {
     "ja": "見つける",
@@ -389,7 +389,7 @@
   },
   {
     "ja": "更新",
-    "en": ""
+    "en": "Updates"
   },
   {
     "ja": "今日",
@@ -405,11 +405,11 @@
   },
   {
     "ja": "作品の編集",
-    "en": ""
+    "en": "Editting"
   },
   {
     "ja": "作品の報告",
-    "en": ""
+    "en": "Report"
   },
   {
     "ja": "作品をシェアする",
@@ -429,7 +429,7 @@
   },
   {
     "ja": "新しい作品",
-    "en": ""
+    "en": "New works"
   },
   {
     "ja": "新着",
@@ -453,11 +453,11 @@
   },
   {
     "ja": "他人に誹謗中傷など嫌がらせをしている。",
-    "en": ""
+    "en": "Slander or harassing others."
   },
   {
     "ja": "誰かがあなたの作品をいいねしました。",
-    "en": ""
+    "en": "Someone has liked your work."
   },
   {
     "ja": "調査協力",
@@ -469,15 +469,15 @@
   },
   {
     "ja": "同意する",
-    "en": ""
+    "en": "Agreed"
   },
   {
     "ja": "誹謗中傷",
-    "en": ""
+    "en": "Slander"
   },
   {
     "ja": "不明なエラーが発生しました。",
-    "en": ""
+    "en": "Unknown error occurred"
   },
   {
     "ja": "報告",
@@ -485,7 +485,7 @@
   },
   {
     "ja": "報告を送信しました。",
-    "en": ""
+    "en": "Report sent."
   },
   {
     "ja": "来月",
