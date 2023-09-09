@@ -2,189 +2,212 @@
   {
     "ja": "_COMMENTS_COUNT_件のコメント",
     "en": "_COMMENTS_COUNT_ Comments",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "vi": "_COMMENTS_COUNT_",
+    "zh_cn": "_COMMENTS_COUNT_评语",
+    "zh_tw": "_COMMENTS_COUNT_評語",
+    "it": "_COMMENTS_COUNT_ Commenti",
+    "fr": "_COMMENTS_COUNT_ Commentaires",
+    "kr": "_COMMENTS_COUNT_댓글"
   },
   {
     "ja": "_DAY_日",
-    "en": "_DAY_",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "_DAY_day",
+    "vi": "_DAY_",
+    "zh_cn": "_DAY_日",
+    "zh_tw": "_DAY_日",
+    "it": "_DAY_giorno",
+    "fr": "_DAY_jours",
+    "kr": "_DAY_일"
   },
   {
     "ja": "_USER_NAME_さんがあなたをフォローしました。",
-    "en": "",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "_USER_NAME_ has followed you.",
+    "vi": "_USER_NAME_",
+    "zh_cn": "_USER_NAME_跟随了你。",
+    "zh_tw": "_USER_NAME_跟隨了你。",
+    "it": "_USER_NAME_ ti ha seguito.",
+    "fr": "_USER_NAME_ vous a suivis.",
+    "kr": "_USER_NAME_ 가 팔로우했습니다."
   },
   {
     "ja": "_USER_NAME_さんがいいねしました。",
-    "en": "",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "_USER_NAME_ liked you work.",
+    "vi": "_USER_NAME_",
+    "zh_cn": "_USER_NAME_喜欢你的作品。",
+    "zh_tw": "_USER_NAME_喜歡你的作品。",
+    "it": "_USER_NAME_ ha apprezzato il tuo lavoro.",
+    "fr": "_USER_NAME_ a apprécié votre travail.",
+    "kr": "_USER_NAME_가 귀하의 작품을 좋아했습니다."
   },
   {
     "ja": "_WORKS_COUNT_件",
     "en": "_WORKS_COUNT_ Works",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "vi": "_WORKS_COUNT_ việc làm",
+    "zh_cn": "_WORKS_COUNT_件",
+    "zh_tw": "_WORKS_COUNT_件",
+    "it": "_WORKS_COUNT_ lavori.",
+    "fr": "_WORKS_COUNT_travaux.",
+    "kr": "_WORKS_COUNT_개 직업."
   },
   {
     "ja": "_YEAR_年 _MONTH_月",
     "en": "_MONTH_/_YEAR_",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "_YEAR_年 _MONTH_月",
+    "zh_tw": "_YEAR_年 _MONTH_月",
+    "it": "_MONTH_/_YEAR_",
+    "fr": "_MONTH_/_YEAR_",
+    "kr": "_YEAR_년/_MONTH_월"
   },
   {
     "ja": "IDにはアルファベットが含まれている必要があります",
-    "en": "",
+    "en": "ID must contain alphabet letters.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "ID 必须包含英文字母",
+    "zh_tw": "ID 必須包含英文字母",
+    "it": "L'ID deve contenere lettere dell'alfabeto.",
+    "fr": "L'ID doit contenir des lettres de l'alphabet.",
+    "kr": "ID는 알파벳 문자를 포함해야 합니다."
   },
   {
     "ja": "IDは4文字以上14文字以下である必要があります",
-    "en": "",
+    "en": "ID must be between 4 and 14 characters long.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "ID 长度必须在 4 到 14 个字符之间",
+    "zh_tw": "ID 長度必須在 4 到 14 個字符之間",
+    "it": "L'ID deve essere composto da 4 a 14 caratteri.",
+    "fr": "L'ID doit comporter entre 4 et 14 caractères.",
+    "kr": "아이디는 4~14자 사이여야 합니다."
   },
   {
     "ja": "X(Twitter)でログイン",
     "en": "Sign in with X(Twitter)",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "vi": "Đăng nhập bằng X(Twitter)",
+    "zh_cn": "使用 X(Twitter) 登录",
+    "zh_tw": "使用 X(Twitter) 登錄",
+    "it": "Accedere a X(Twitter)",
+    "fr": "Connectez-vous avec X (Twitter)",
+    "kr": "X(Twitter)로 로그인하세요"
   },
   {
     "ja": "アカウント",
     "en": "Account",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "vi": "tài khoản",
+    "zh_cn": "帐户",
+    "zh_tw": "帳戶",
+    "it": "Account",
+    "fr": "Compte",
+    "kr": "계정"
   },
   {
     "ja": "アカウントの削除",
     "en": "Delete Account",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "vi": "Xóa tài khoản",
+    "zh_cn": "删除账户",
+    "zh_tw": "刪除賬戶",
+    "it": "Eliminare l'account",
+    "fr": "Supprimer un compte",
+    "kr": "계정 삭제."
   },
   {
     "ja": "アップデートが必要です。",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Updates are required.",
+    "vi": "Cần phải cập nhật.",
+    "zh_cn": "必须进行更新。",
+    "zh_tw": "必須進行更新。",
+    "it": "Gli aggiornamenti sono obbligatori.",
+    "fr": "Une mise à jour est nécessaire",
+    "kr": "업데이트해야 합니다."
   },
   {
     "ja": "あなたのシリーズ",
-    "en": "",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Your series",
+    "vi": "Loạt bài của bạn.",
+    "zh_cn": "您的系列",
+    "zh_tw": "您的系列",
+    "it": "La vostra serie",
+    "fr": "Votre série",
+    "kr": "내 시리즈."
   },
   {
     "ja": "あなたのシリーズは無いみたい。",
-    "en": "",
+    "en": "Seems like you don't have a series.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "您好像没有系列。",
+    "zh_tw": "您好像没有系列。",
+    "it": "Sembra che non abbia una serie.",
+    "fr": "Il semble que vous n'ayez pas de séries.",
+    "kr": "시리즈가 없는 것 같네요."
   },
   {
     "ja": "あなたのフォルダ",
-    "en": "",
-    "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Your folder",
+    "vi": "thư mục của bạn",
+    "zh_cn": "您的文件夹",
+    "zh_tw": "您的文件夾",
+    "it": "La vostra cartella",
+    "fr": "Votre dossier",
+    "kr": "내 폴더"
   },
   {
     "ja": "あなたのフォルダは無いみたい。",
-    "en": "",
+    "en": "Seems like you don't have a folder.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "您好像没有文件夹。",
+    "zh_tw": "您好像没有文件夾。",
+    "it": "Sembra che non abbiate una cartella.",
+    "fr": "Il semble que vous n'ayez pas de dossier.",
+    "kr": "당신의 폴더는 없는 것 같다."
   },
   {
     "ja": "あなたの作品",
     "en": "Your Works",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "您的作品",
+    "zh_tw": "您的作品",
+    "it": "I vostri lavori.",
+    "fr": "Vos travaux",
+    "kr": "여러분의 작품"
   },
   {
     "ja": "あなたの作品は無いみたい。",
-    "en": "",
+    "en": "Seems like you don't have any work.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "看来您没有作品。",
+    "zh_tw": "看來您沒有作品。",
+    "it": "Sembra che non abbiate lavoro.",
+    "fr": "Il semble que vous n'ayez pas de travail.",
+    "kr": "일이 없는 것 같네요."
   },
   {
     "ja": "いいね",
-    "en": "",
+    "en": "Like",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "赞",
+    "zh_tw": "讚好",
+    "it": "Mi piace",
+    "fr": "J'aime",
+    "kr": "좋아요"
   },
   {
     "ja": "イベント",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Event",
+    "vi": "",
+    "zh_cn": "活动",
+    "zh_tw": "活動",
+    "it": "Evento",
+    "fr": "Événement",
+    "kr": "이벤트"
   },
   {
     "ja": "イラストとは関係のない商品のURLなどを大量に投稿している。",
-    "en": "",
+    "en": "A large number of URLs and other information on products unrelated to the illustrations are posted.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "张贴了大量与插图无关的产品URL和其他信息。",
+    "zh_tw": "張貼了許多與插圖無關的商品URL及其他信息。",
+    "it": "Vengono pubblicati numerosi URL e altre informazioni su prodotti non correlati alle illustrazioni.",
+    "fr": "Un grand nombre d'URL et d'autres informations sur des produits sans rapport avec les illustrations sont affichés.",
+    "kr": "일러스트와 관련이 없는 상품에 대한 URL 및 기타 정보가 다수 게시되어 있습니다."
   },
   {
     "ja": "おすすめ",
@@ -193,7 +216,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "オフ",
@@ -202,7 +226,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "お題",
@@ -211,7 +236,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "お題の作品",
@@ -220,7 +246,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "お知らせ",
@@ -229,7 +256,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "キーワード検索",
@@ -238,7 +266,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "キャッシュクリア",
@@ -247,7 +276,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "クリップボードにコピーしました。",
@@ -256,7 +286,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ここで終わりみたい。",
@@ -265,7 +296,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "このアプリを利用するには利用規約とプライバシーポリシーに同意する必要があります。",
@@ -274,7 +306,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "このユーザーの投稿はフォロー中タブに表示されなくなりますが、他のページから見ることができます。",
@@ -283,7 +316,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "このユーザーの投稿は表示されなくなります。\\n設定画面からいつでも解除することができます。",
@@ -291,7 +325,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "このユーザーをミュートしますか？",
@@ -299,7 +334,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "この機能は使用できないみたい。",
@@ -308,7 +344,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "この作品は削除されました。",
@@ -317,7 +354,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "この通知は削除されました。",
@@ -326,7 +364,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "コメント",
@@ -335,7 +374,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "コメントを入力",
@@ -344,7 +384,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "コメントを報告する",
@@ -353,7 +394,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "システムカラーモード",
@@ -362,7 +404,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "シリーズ",
@@ -371,7 +414,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "シリーズの報告",
@@ -380,7 +424,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "スタンプ",
@@ -389,7 +434,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "スタンプの報告",
@@ -398,7 +444,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "スタンプを報告する",
@@ -407,7 +454,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "スパム",
@@ -416,7 +464,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "その他",
@@ -425,7 +474,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ダークモード",
@@ -434,7 +484,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "タグ",
@@ -443,7 +494,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "タブレット向けUIを使用する",
@@ -452,7 +504,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ツイッターをフォローする",
@@ -461,7 +514,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ディスコで確認する",
@@ -469,7 +523,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ディスコに参加する",
@@ -478,7 +533,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "テーマ設定",
@@ -487,7 +543,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "デバッグモード",
@@ -496,7 +553,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "バージョン",
@@ -505,7 +563,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "パスワード",
@@ -514,7 +573,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "パスワードの変更",
@@ -523,7 +583,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "パスワードを更新しました。",
@@ -532,7 +593,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フィード",
@@ -541,7 +603,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フィードバック",
@@ -550,7 +613,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フォルダ",
@@ -559,7 +623,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フォルダの報告",
@@ -568,7 +633,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フォロー",
@@ -577,7 +643,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フォローする",
@@ -586,7 +653,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フォローを解除しますか？",
@@ -595,7 +663,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "フォロー中",
@@ -604,7 +673,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ブックマーク",
@@ -613,7 +683,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "プライバシーポリシー",
@@ -622,7 +693,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ページを開く",
@@ -631,7 +703,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ベスト",
@@ -640,7 +713,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ホーム",
@@ -649,7 +723,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "マイページ",
@@ -658,7 +733,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ミュートしたタグ",
@@ -667,7 +743,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ミュートしたタグは無いみたい。",
@@ -676,7 +753,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ミュートしたユーザ",
@@ -685,7 +763,8 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ミュートしたユーザは居ないみたい。",
@@ -694,514 +773,574 @@
     "zh_cn": "",
     "zh_tw": "",
     "it": "",
-    "fr": ""
+    "fr": "",
+    "kr": ""
   },
   {
     "ja": "ミュートする",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Muted",
+    "zh_cn": "已静音",
+    "zh_tw": "已靜音",
+    "it": "muto",
+    "fr": "silencieux",
+    "kr": "음소거"
   },
   {
     "ja": "ミュートを解除する",
-    "en": "",
+    "en": "Unmuted",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "静音解除",
+    "zh_tw": "靜音解除",
+    "it": "Non silenziato",
+    "fr": "Non muté",
+    "kr": "음소거 해제"
   },
   {
     "ja": "メンテナンス中",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Under maintenance",
+    "zh_cn": "维护中",
+    "zh_tw": "維修中",
+    "it": "In manutenzione",
+    "fr": "Sous maintenance",
+    "kr": "유지보수 중"
   },
   {
     "ja": "やめる",
-    "en": "",
+    "en": "Cancel",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "舍弃",
+    "zh_tw": "捨棄",
+    "it": "abbandonare",
+    "fr": "abandonner",
+    "kr": "그만두다"
   },
   {
     "ja": "ユーザID",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "User ID",
+    "zh_cn": "用戶ID",
+    "zh_tw": "用戶ID",
+    "it": "ID utente",
+    "fr": "ID de l'utilisateur",
+    "kr": "사용자 ID"
   },
   {
     "ja": "ユーザの報告",
     "en": "Report User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "用户报告",
+    "zh_tw": "用戶報告",
+    "it": "Rapporti con gli utenti",
+    "fr": "Rapports des utilisateurs",
+    "kr": "사용자 보고"
   },
   {
     "ja": "ユーザをシェアする",
     "en": "Share User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "分享用户",
+    "zh_tw": "分享用户",
+    "it": "Condividi utente",
+    "fr": "Partager l'utilisateur",
+    "kr": "사용자 공유"
   },
   {
     "ja": "ユーザをフォローする",
     "en": "Follow User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "关注用户",
+    "zh_tw": "跟隨用戶",
+    "it": "Seguire l'utente",
+    "fr": "Suivre l'utilisateur",
+    "kr": "사용자 팔로우하기"
   },
   {
     "ja": "ユーザをフォロー中",
     "en": "Following User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "已关注用户",
+    "zh_tw": "已跟隨用戶",
+    "it": "Seguendo l'utente",
+    "fr": "Utilisateur suivant",
+    "kr": "사용자 팔로우 중"
   },
   {
     "ja": "ユーザをミュートする",
     "en": "Mute User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "将用户静音",
+    "zh_tw": "將用戶靜音",
+    "it": "Silenziamento di un utente",
+    "fr": "Mise en sourdine d'un utilisateur",
+    "kr": "사용자 음소거하기"
   },
   {
     "ja": "ユーザをミュート中",
     "en": "Muted User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "静音該用户",
+    "zh_tw": "靜音該用戶",
+    "it": "Silenziamento dell'utente",
+    "fr": "Couper le son de l'utilisateur",
+    "kr": "사용자 뮤트하기"
   },
   {
     "ja": "ユーザを報告する",
     "en": "Report User",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "举报用户",
+    "zh_tw": "舉報用戶",
+    "it": "segnalare l'utente",
+    "fr": "signaler un utilisateur",
+    "kr": "사용자 보고"
   },
   {
     "ja": "ライセンス",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Licence",
+    "vi": "",
+    "zh_cn": "许可",
+    "zh_tw": "許可",
+    "it": "Licenza",
+    "fr": "Licence",
+    "kr": "라이선스"
   },
   {
     "ja": "リポジトリ",
-    "en": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "en": "Repository (GitHub)",
+    "vi": "",
+    "zh_cn": "存储库",
+    "zh_tw": "存儲庫",
+    "it": "deposito",
+    "fr": "dépôt",
+    "kr": "저장소"
   },
   {
     "ja": "ログアウト",
     "en": "Sign out",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "登出",
+    "zh_tw": "登出",
+    "it": "Logout",
+    "fr": "Déconnexion",
+    "kr": "로그아웃"
   },
   {
     "ja": "ログイン",
     "en": "Sign in",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "登录",
+    "zh_tw": "登入",
+    "it": "Accesso",
+    "fr": "Connexion",
+    "kr": "로그인"
   },
   {
     "ja": "ログインIDの変更",
     "en": "Change Sign in ID",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "更改登录 ID",
+    "zh_tw": "更改登入 ID",
+    "it": "Modifica dell'ID di accesso",
+    "fr": "Changement d'identifiant de connexion",
+    "kr": "로그인 ID 변경"
   },
   {
     "ja": "ログインIDを更新しました。",
-    "en": "Sign in ID updated.",
+    "en": "Updated login ID.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "更新登录 ID。",
+    "zh_tw": "更新登入 ID。",
+    "it": "Aggiornamento dell'ID di accesso.",
+    "fr": "Mise à jour de l'identifiant de connexion.",
+    "kr": "로그인 ID를 업데이트했습니다."
   },
   {
     "ja": "ログインしました",
-    "en": "",
+    "en": "Logged in.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "已登录。",
+    "zh_tw": "已登入。",
+    "it": "Accesso",
+    "fr": "Connecté",
+    "kr": "로그인했습니다"
   },
   {
     "ja": "ログインするとコメントできます",
-    "en": "",
+    "en": "Log in to comment.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "登录后发表评论。",
+    "zh_tw": "登入後發表評論。",
+    "it": "Accedi per commentare.",
+    "fr": "Se connecter pour commenter.",
+    "kr": "로그인하면 댓글을 달 수 있습니다."
   },
   {
     "ja": "ログインに使用するIDを変更します。",
-    "en": "Change the ID used for sign in.",
+    "en": "Change the login ID.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "更改登录 ID。",
+    "zh_tw": "更改登入 ID。",
+    "it": "Modificare l'ID di accesso.",
+    "fr": "Modifier l'identifiant de connexion.",
+    "kr": "로그인 ID를 변경합니다."
   },
   {
     "ja": "ログインに使用するパスワードを変更します。",
-    "en": "Change the password used for sign in.",
+    "en": "Change the login password.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "更改登录密码。",
+    "zh_tw": "更改登入密碼。",
+    "it": "Modificare la password di accesso.",
+    "fr": "Modifier le mot de passe de connexion.",
+    "kr": "로그인 비밀번호를 변경합니다."
   },
   {
     "ja": "一部の画面でタブレット向けのレイアウトが適用されます。",
-    "en": "",
+    "en": "Tablet-friendly layouts are applied to some screens",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "部分屏幕采用平板电脑友好布局。",
+    "zh_tw": "部分屏幕採用平板電腦友好佈局。",
+    "it": "I layout adatti ai tablet sono applicati ad alcune schermate.",
+    "fr": "Des mises en page adaptées aux tablettes sont appliquées à certains écrans.",
+    "kr": "일부 화면에는 태블릿 친화적인 레이아웃이 적용됩니다."
   },
   {
     "ja": "解除する",
-    "en": "",
+    "en": "Disengage",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "解除",
+    "zh_tw": "解除",
+    "it": "Disattivare",
+    "fr": "Désengager",
+    "kr": "완화하다"
   },
   {
     "ja": "該当する報告理由を選択してください。",
-    "en": "",
+    "en": "Select the relevant reporting reason.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "选择相关的报告原因。",
+    "zh_tw": "選擇相關的報告原因。",
+    "it": "Selezionare il motivo della segnalazione.",
+    "fr": "Sélectionnez le motif de déclaration approprié.",
+    "kr": "해당되는 신고 사유를 선택해 주세요."
   },
   {
     "ja": "見つける",
     "en": "Explore",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "探索",
+    "zh_tw": "探索",
+    "it": "Esplora",
+    "fr": "Explorer",
+    "kr": "탐색"
   },
   {
     "ja": "現在のログインID",
     "en": "Current Sign in ID",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "当前登录 ID",
+    "zh_tw": "當前登入 ID",
+    "it": "ID di accesso corrente",
+    "fr": "Identifiant actuel",
+    "kr": "현재 로그인 ID"
   },
   {
     "ja": "現在ログインしているアカウントを削除します。",
     "en": "Delete the currently signed-in account.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "删除当前登录的帐户。",
+    "zh_tw": "刪除當前登入的帳戶。",
+    "it": "Elimina l'account attualmente registrato.",
+    "fr": "Supprimer le compte actuellement connecté.",
+    "kr": "현재 로그인한 계정을 삭제합니다."
   },
   {
     "ja": "言語切り替え",
     "en": "Language",
     "vi": "Chuyển đổi ngôn ngữ",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "更改语言",
+    "zh_tw": "更改语言",
+    "it": "Cambia lingua",
+    "fr": "Changer de langue",
+    "kr": "언어 전환"
   },
   {
     "ja": "更新",
-    "en": "",
+    "en": "Update",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "更新",
+    "zh_tw": "更新",
+    "it": "aggiornamenti",
+    "fr": "Mettre à jour",
+    "kr": "업데이트"
   },
   {
     "ja": "今日",
     "en": "Today",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "今天",
+    "zh_tw": "今天",
+    "it": "Oggi",
+    "fr": "Aujourd'hui",
+    "kr": "오늘"
   },
   {
     "ja": "今日のテーマは_TITLE_だよ！",
-    "en": "Today's theme is \"_TITLE_\"",
+    "en": "Today's theme is \"_TITLE_\"!",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "今天的主题是\"_TITLE_\"!",
+    "zh_tw": "今天的主題是\"_TITLE_\"!",
+    "it": "Il tema di oggi è \"_TITLE_\"!",
+    "fr": "Le thème d'aujourd'hui est \"_TITLE_\"!",
+    "kr": "오늘의 테마는 \"_TITLE_\"입니다!"
   },
   {
     "ja": "作品",
     "en": "Work",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "作品",
+    "zh_tw": "作品",
+    "it": "lavori",
+    "fr": "œuvre",
+    "kr": "작품"
   },
   {
     "ja": "作品の編集",
-    "en": "",
+    "en": "Edit of work",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "编辑作品",
+    "zh_tw": "編輯作品",
+    "it": "Modifica dei lavori",
+    "fr": "Edition des travaux",
+    "kr": "작업 편집"
   },
   {
     "ja": "作品の報告",
-    "en": "",
+    "en": "Report of work",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "作品的报告",
+    "zh_tw": "作品的報告",
+    "it": "Rapporto di lavoro",
+    "fr": "Rapport des travaux",
+    "kr": "작품 보고서"
   },
   {
     "ja": "作品をシェアする",
     "en": "Share Work",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "分享作品",
+    "zh_tw": "分享作品",
+    "it": "Condividere il lavoro",
+    "fr": "Partager le travail",
+    "kr": "작업 공유"
   },
   {
     "ja": "作品を報告する",
     "en": "Report Work",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "举报作品",
+    "zh_tw": "舉報作品",
+    "it": "Rapporto di lavoro",
+    "fr": "Travail de rapport",
+    "kr": "작업 보고."
   },
   {
     "ja": "新しいパスワード",
     "en": "New Password",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "新的密码",
+    "zh_tw": "新的密碼",
+    "it": "Nuova password",
+    "fr": "Nouveau mot de passe",
+    "kr": "새로운 비밀번호"
   },
   {
     "ja": "新しいログインID",
-    "en": "New Sign in ID",
+    "en": "New login ID",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "新的登录 ID",
+    "zh_tw": "新的登錄 ID",
+    "it": "Nuovo ID di login",
+    "fr": "Nouvel identifiant de connexion",
+    "kr": "새로운 로그인 ID"
   },
   {
     "ja": "新しい作品",
-    "en": "",
+    "en": "New works",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "新作品",
+    "zh_tw": "新作品",
+    "it": "Nuovi lavori",
+    "fr": "Nouveaux travaux",
+    "kr": "새로운 작품"
   },
   {
     "ja": "新着",
     "en": "Latest Works",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "最新作品",
+    "zh_tw": "最新作品",
+    "it": "Ultimi lavori",
+    "fr": "Derniers travaux",
+    "kr": "최신 작품"
   },
   {
     "ja": "人気",
     "en": "Popular Works",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "热门作品",
+    "zh_tw": "熱門作品",
+    "it": "Opere popolari",
+    "fr": "Travaux populaires",
+    "kr": "인기 작품"
   },
   {
     "ja": "設定",
     "en": "Settings",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "设定",
+    "zh_tw": "設定",
+    "it": "Impostazioni",
+    "fr": "Paramètres",
+    "kr": "설정"
   },
   {
     "ja": "前月",
     "en": "Prev",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "上个月",
+    "zh_tw": "上個月",
+    "it": "mese precedente",
+    "fr": "mois précédent",
+    "kr": "전월"
   },
   {
     "ja": "送信",
     "en": "Send",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "发送",
+    "zh_tw": "發送",
+    "it": "inviare",
+    "fr": "envoyer",
+    "kr": "보내기"
   },
   {
     "ja": "他人に誹謗中傷など嫌がらせをしている。",
-    "en": "",
+    "en": "Harassing and slandering others.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "骚扰和诽谤他人。",
+    "zh_tw": "騷擾和誹謗他人。",
+    "it": "Molestare e calunniare gli altri.",
+    "fr": "Harceler et calomnier les autres.",
+    "kr": "타인을 괴롭히거나 비방하는 행위."
   },
   {
     "ja": "誰かがあなたの作品をいいねしました。",
-    "en": "",
+    "en": "Someone has liked your work.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "有人喜欢您的作品。",
+    "zh_tw": "有人喜歡您的作品。",
+    "it": "A qualcuno è piaciuto il vostro lavoro.",
+    "fr": "Quelqu'un a aimé votre travail.",
+    "kr": "누군가 내 작품을 좋아했습니다."
   },
   {
     "ja": "端末",
     "en": "Device",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "设备",
+    "zh_tw": "設備",
+    "it": "Dispositivo",
+    "fr": "Dispositif",
+    "kr": "장치"
   },
   {
     "ja": "調査協力",
     "en": "Surveys",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "问卷调查",
+    "zh_tw": "問卷調查",
+    "it": "Sondaggi",
+    "fr": "Enquêtes",
+    "kr": "설문조사"
   },
   {
     "ja": "通知",
     "en": "Notifications",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "通知",
+    "zh_tw": "通知",
+    "it": "Notifiche",
+    "fr": "Notifications",
+    "kr": "알림"
   },
   {
     "ja": "同意する",
-    "en": "",
+    "en": "Agree",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "同意",
+    "zh_tw": "同意",
+    "it": "Concordo",
+    "fr": "Accepter",
+    "kr": "동의합니다"
   },
   {
     "ja": "誹謗中傷",
-    "en": "",
+    "en": "Defamation and slander",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "诽谤中伤",
+    "zh_tw": "誹謗中傷",
+    "it": "Diffamazione e calunnia",
+    "fr": "Diffamation et calomnie",
+    "kr": "명예훼손 및 비방"
   },
   {
     "ja": "不明なエラーが発生しました。",
-    "en": "",
+    "en": "Unknown error occurred.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "发生未知错误。",
+    "zh_tw": "發生未知錯誤。",
+    "it": "Si è verificato un errore sconosciuto.",
+    "fr": "Une erreur inconnue s'est produite.",
+    "kr": "알 수 없는 오류가 발생했습니다."
   },
   {
     "ja": "報告",
     "en": "Report",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "报告",
+    "zh_tw": "報告",
+    "it": "Rapporto",
+    "fr": "Rapport",
+    "kr": "보고서"
   },
   {
     "ja": "報告を送信しました。",
-    "en": "",
+    "en": "Report submitted.",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "报告已提交。",
+    "zh_tw": "報告已提交。",
+    "it": "Rapporto presentato.",
+    "fr": "Rapport soumis.",
+    "kr": "보고서 제출."
   },
   {
     "ja": "来月",
-    "en": "Next",
+    "en": "Next ",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "下个月",
+    "zh_tw": "下個月",
+    "it": "Prossimo mese",
+    "fr": "Mois prochain",
+    "kr": "다음달"
   },
   {
     "ja": "利用規約",
     "en": "Terms",
     "vi": "",
-    "zh_cn": "",
-    "zh_tw": "",
-    "it": "",
-    "fr": ""
+    "zh_cn": "使用条款",
+    "zh_tw": "使用條款",
+    "it": "Termini",
+    "fr": "Termes",
+    "kr": "약관"
   }
 ]
